@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# todo app with task editor option kuch to naya kiya hai , note :- use Your own css
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
